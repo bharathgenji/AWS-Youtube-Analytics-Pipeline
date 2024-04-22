@@ -17,7 +17,7 @@ The project utilizes a series of AWS services to handle data through its lifecyc
 - `presentation/` - A folder containing the project presentation slides.
 - `demo/` - A folder with the demo video showcasing the pipeline in action.
 - `src/` - Source code files for any custom scripts or Lambda functions used in the pipeline.
-- `docs/` - Additional documentation and notes.
+
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ To get started with deploying this analytics pipeline:
 
 ## Demo
 
-Watch the `demo/video.mp4` to see a walkthrough of the data analytics pipeline in action.
+Watch the `demo/.mp4` to see a walkthrough of the data analytics pipeline in action.
 
 ## Contributors
 
