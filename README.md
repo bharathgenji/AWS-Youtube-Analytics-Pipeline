@@ -1,4 +1,4 @@
-# AWS Data Lake Analytics Pipeline
+# AWS Youtube Analytics Pipeline
 
 ## Project Overview
 This repository contains the resources and documentation for setting up an end-to-end data processing and analytics pipeline on AWS. The pipeline integrates various AWS services to ingest, process, catalog, and visualize data. 
