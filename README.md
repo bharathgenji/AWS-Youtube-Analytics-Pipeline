@@ -23,7 +23,7 @@ The project utilizes a series of AWS services to handle data through its lifecyc
 
 To get started with deploying this analytics pipeline:
 
-1. **Setup AWS Services**: Follow the instructions in the `docs/setup_guide.md` to configure the necessary AWS services.
+1. **Setup AWS Services**: Follow the instructions in the `/presentation` to configure the necessary AWS services.
 2. **Data Ingestion**: Place your raw data in the S3 landing bucket to kick off the pipeline.
 3. **Monitor the Pipeline**: Use CloudWatch to monitor the ETL jobs and Lambda functions.
 4. **Data Exploration**: Use Athena to run queries against your processed data.
