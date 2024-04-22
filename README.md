@@ -1,4 +1,4 @@
-# AWS Data Lake Analytics Pipeline
+# AWS Youtube Analytics Pipeline
 
 ## Project Overview
 This repository contains the resources and documentation for setting up an end-to-end data processing and analytics pipeline on AWS. The pipeline integrates various AWS services to ingest, process, catalog, and visualize data. 
@@ -17,13 +17,13 @@ The project utilizes a series of AWS services to handle data through its lifecyc
 - `presentation/` - A folder containing the project presentation slides.
 - `demo/` - A folder with the demo video showcasing the pipeline in action.
 - `src/` - Source code files for any custom scripts or Lambda functions used in the pipeline.
-- `docs/` - Additional documentation and notes.
+
 
 ## Getting Started
 
 To get started with deploying this analytics pipeline:
 
-1. **Setup AWS Services**: Follow the instructions in the `docs/setup_guide.md` to configure the necessary AWS services.
+1. **Setup AWS Services**: Follow the instructions in the `/presentation` to configure the necessary AWS services.
 2. **Data Ingestion**: Place your raw data in the S3 landing bucket to kick off the pipeline.
 3. **Monitor the Pipeline**: Use CloudWatch to monitor the ETL jobs and Lambda functions.
 4. **Data Exploration**: Use Athena to run queries against your processed data.
@@ -31,7 +31,7 @@ To get started with deploying this analytics pipeline:
 
 ## Demo
 
-Watch the `demo/video.mp4` to see a walkthrough of the data analytics pipeline in action.
+Watch the `demo/.mp4` to see a walkthrough of the data analytics pipeline in action.
 
 ## Contributors
 
